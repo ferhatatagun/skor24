@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ferhatatagun.github.io/skor24/sitemap.xml

@@ -1,0 +1,16 @@
+# SKOR24
+
+> SKOR24, 24 ay boyunca alınan kredi kararlarının (ekstre ödemesi, kredi başvurusu, limit artışı, hesap kapatma, kefillik) kredi skorunu nasıl etkilediğini gösteren, Türkçe ve eğitim amaçlı bir simülasyon oyunudur. Skorlama, FICO'nun kamuya açık faktör ağırlıklarından (ödeme geçmişi %35, kullanım oranı %30, kredi geçmişi uzunluğu %15, yeni sorgular %10, kredi çeşitliliği %10) esinlenerek basitleştirilmiş ve Türkiye'deki Findeks/KKB skalasına (0-1900) eşlenmiştir.
+
+SKOR24 finansal tavsiye aracı değildir; gerçek KKB/Findeks algoritmasını birebir yansıtmaz. Oyun kasıtlı olarak yalnızca kredibiliteyi iyileştirmeyi oyunlaştırır, borçlanmayı veya kredi kullanımını teşvik eden hiçbir mekanik içermez.
+
+## İçerik
+
+- [Oyun (canlı)](https://ferhatatagun.github.io/skor24/): tek sayfalık, bağımlılıksız web uygulaması. Tarayıcıda anında oynanır.
+- [Kaynak kod](https://github.com/ferhatatagun/skor24): tek dosyalık HTML/CSS/JS, MIT benzeri açık kaynak.
+
+## Notlar
+
+- Dil: Türkçe (tr-TR).
+- Hedef kitle: Türkiye'deki bireysel kullanıcılar, finansal okuryazarlık ilgisi olan kişiler.
+- Yazar: Ferhat Atagün — https://ferhatatagun.com
