@@ -8,6 +8,7 @@ SKOR24 finansal tavsiye aracı değildir; gerçek KKB/Findeks algoritmasını bi
 
 - [Oyun (canlı)](https://ferhatatagun.github.io/skor24/): tek sayfalık, bağımlılıksız web uygulaması. Tarayıcıda anında oynanır.
 - [Kaynak kod](https://github.com/ferhatatagun/skor24): tek dosyalık HTML/CSS/JS, MIT benzeri açık kaynak.
+- [Yazı: Bir ödeme kararı skoru 122 puan oynattı](https://ferhatatagun.com/blog/bir-odeme-karari-skoru-122-puan-oynatti): skorlama motorunda bulunan bir kalibrasyon hatasının ve düzeltme sürecinin anlatımı.
 
 ## Notlar
 

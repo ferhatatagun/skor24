@@ -10,6 +10,10 @@ Oyuncu her ay bir finansal karar verir (ekstre ödemesi, kredi başvurusu, limit
 
 Oyun kasıtlı olarak yalnızca **kredibiliteyi iyileştirmeyi** oyunlaştırır; borçlanmayı veya kredi kullanımını teşvik eden hiçbir mekanik içermez.
 
+## Yazı
+
+Oyunu yazarken bulduğum bir kalibrasyon hatasını (+122 puanlık tek kararlık bir sıçrama) ve düzeltme sürecini anlatan yazı: [Bir ödeme kararı skoru 122 puan oynattı](https://ferhatatagun.com/blog/bir-odeme-karari-skoru-122-puan-oynatti)
+
 ## Çalıştırma
 
 Bağımlılık yok — tek `index.html` dosyası, saf HTML/CSS/JS.
