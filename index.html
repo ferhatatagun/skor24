@@ -867,6 +867,29 @@
     clip: rect(0 0 0 0);
   }
 
+  .site-footer {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 24px 20px 40px;
+    font-size: 13px;
+    color: var(--text-faint);
+    text-align: center;
+  }
+
+  .site-footer a {
+    color: var(--brand);
+    text-decoration: none;
+  }
+
+  .site-footer a:hover {
+    text-decoration: underline;
+  }
+
+  .site-footer__sep {
+    margin: 0 8px;
+    opacity: 0.5;
+  }
+
   @media (max-width: 860px) {
     .game-grid, .result-grid { grid-template-columns: 1fr; }
     .steps { grid-template-columns: 1fr; }
@@ -1083,6 +1106,14 @@
   </section>
 
 </div>
+
+<footer class="site-footer">
+  <a href="https://ferhatatagun.com/blog/bir-odeme-karari-skoru-122-puan-oynatti">Skorlama motorunun hikayesi</a>
+  <span class="site-footer__sep">·</span>
+  <a href="https://github.com/ferhatatagun/skor24">Kaynak kod</a>
+  <span class="site-footer__sep">·</span>
+  <a href="https://ferhatatagun.com">Ferhat Atagün</a>
+</footer>
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <div class="sr-only" id="sr-live" aria-live="polite"></div>
